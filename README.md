@@ -9,9 +9,9 @@ Run all the cells in each notebook in the following order
 5. CNN_text_review_modified_architecture.ipynb
 6. review_classification.ipynb
 
-File Text_summary_generation.ipynb - code to generate summaries and it will generate csv file Reviews_summaries.csv that contain addition column named predicted_summary that will be used by CNN, RNN and baseline models.
+Text_summary_generation.ipynb - code to generate summaries and it will generate csv file Reviews_summaries.csv that contain addition column named predicted_summary that will be used by CNN, RNN and baseline models.
 
-File Baseline.ipynb - code to train and test the Naive Bayes Classifier for predicting ratings.
+Baseline.ipynb - code to train and test the Naive Bayes Classifier for predicting ratings.
 
 CNN_data_processing.ipynb - preprocesses the data for CNN models training
 
