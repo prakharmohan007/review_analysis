@@ -1,0 +1,9 @@
+# swap files
+*.swp
+*.swap
+
+# unwanted folders
+.ipynb_checkpoints
+
+# temporary files
+*.~lock*
